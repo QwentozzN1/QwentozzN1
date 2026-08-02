@@ -16,5 +16,5 @@
 </h2>
 <img width="1200" height="455" alt="˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚" src="https://github.com/user-attachments/assets/e5afba89-7e82-4c4b-a60c-27383d624583" />
 
-<hr><p><span style="margin-right: 30px;"></span><a href="https://github.com/QwentozzN1"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p> <img width="10%" height="512" href="https:/telegram.com/@Xsizd" alt="image" src="https://github.com/user-attachments/assets/f7ff71a2-6d33-46f3-b403-feaed5d5343a" />
+<hr><p><span style="margin-right: 30px;"></span><a href="https://github.com/QwentozzN1"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
 
