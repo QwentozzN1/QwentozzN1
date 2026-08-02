@@ -13,5 +13,6 @@
 </ul><ul>
 <li>C#</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="https://i.pinimg.com/736x/5c/2c/8d/5c2c8d0738873e581bf231d66230ffb5.jpg" alt=""></p><h2>Contact</h2>
+<img width="1200" height="455" alt="˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚" src="https://github.com/user-attachments/assets/e5afba89-7e82-4c4b-a60c-27383d624583" />
+
 <hr><p><span style="margin-right: 30px;"></span><a href="https://github.com/QwentozzN1"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
