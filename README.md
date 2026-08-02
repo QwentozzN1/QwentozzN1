@@ -8,7 +8,7 @@
 <li>17 y.o</li>
 </ul><ul>
 <li>im using JavaScript,c++ and c#</li>
-</ul><h2>Использую коды</h2>
+</ul><h2>Использую языки</h2>
 <hr><ul>
 <li>JavaScript</li>
 </ul><ul>
