@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="Anime Live Wallpaper GIF - Anime Live Wallpaper - Discover   Share GIFs" src="https://github.com/user-attachments/assets/683509f0-77b5-4877-b11d-b9d095b541a7" />
+<img width="735" height="412" alt="Без названия (1)" src="https://github.com/user-attachments/assets/a3455fe6-968c-41d9-b7f1-a1383a8f57e7" />
 
 
 
