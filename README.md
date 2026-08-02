@@ -1,20 +1,17 @@
-<img width="1200" height="450" alt="˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚" src="https://github.com/user-attachments/assets/a119e336-814d-41e7-8151-5af3b79c2c9d" />
-
-
-
-
-
-<!--
-**QwentozzN1/QwentozzN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>General Information</h2>
+<hr><ul>
+<li>name: Konstantin</li>
+</ul><ul>
+<li>17 y.o</li>
+</ul><ul>
+<li>im using JavaScript,c++ and c#</li>
+</ul><h2>Technologies Used</h2>
+<hr><ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>C++</li>
+</ul><ul>
+<li>C#</li>
+</ul><h2>Screenshots</h2>
+<hr><p><img src="https://i.pinimg.com/736x/5c/2c/8d/5c2c8d0738873e581bf231d66230ffb5.jpg" alt=""></p><h2>Contact</h2>
+<hr><p><span style="margin-right: 30px;"></span><a href="https://github.com/QwentozzN1"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
