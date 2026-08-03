@@ -10,7 +10,7 @@
 <li>im using Java,c++ and c#</li>
 </ul><h2>Использую языки</h2>
 <hr><ul>
-<li>JavaScript</li>
+<li>Java</li>
 </ul><ul>
 <li>C++</li>
 </ul><ul>
