@@ -1,6 +1,7 @@
 </ul><h2>Фон профиля<img width="30" height="15" alt="image" src="https://github.com/user-attachments/assets/d48cbd64-041a-4dbe-99ef-465f7a30bb9c" />
 </h2>
-<img width="1200" height="455" alt="˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚" src="https://github.com/user-attachments/assets/e5afba89-7e82-4c4b-a60c-27383d624583" />
+<img width="1983" height="793" alt="ChatGPT Image 8 авг  2026 г , 06_10_42" src="https://github.com/user-attachments/assets/a99555c8-ec6e-4d50-9c0a-1115bcf9b2a1" />
+
 <h2>Инфа</h2>
 <hr><ul>
 <li>name: Konstantin</li>
